@@ -19,7 +19,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Usando Projeto Login
 
-Para acessar o portfólio, siga estas etapas:
+Para acessar a página, siga estas etapas:
 
 - Acesse o seguinte link: https://maurochavesjr.github.io/projeto-login/
 
